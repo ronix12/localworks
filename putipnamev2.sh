@@ -3,7 +3,7 @@ assign_IP () {
 clear
 echo "*******************************************************************************"
 echo "*** WELCOME IT OPS... You're about to configure IP Address and hostname...  ***"
-echo "*** Please be cautious of the value that you will input. Thank you!!! by#12 ***"
+echo "*** Please be cautious of the value that you will input. Thank you!!! by#TyroneNisaga#12 ***"
 echo "*******************************************************************************"
 read -p "Do you want to assign $as_ip as static?([y]es or [N]o): " REPLY
     		case $(echo $REPLY | tr '[A-Z]' '[a-z]') in
